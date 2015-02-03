@@ -1,11 +1,3 @@
-// Class: CSE 330
-// Term: Spring 2014
-// Instructor: George M. Georgiou
-// Name(s): Alden Amoranto
-// Homework 4
-// Title: Priority Queue
-// PriorityQueue.h
-//values of k {12, 15, 100, 24, 19, 60, 112, 123, 18, 29, 78, 4};
 #include <vector>
 
 using namespace std;
